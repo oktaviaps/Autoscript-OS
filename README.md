@@ -7,7 +7,7 @@ apt update -y; apt upgrade -y; apt install gnupg tmux -y; tmux new -s os
 ```
 `TAHAP 2`
 ```
-wget https://raw.githubusercontent.com/oktaviaps/os/main/setup.sh; chmod +x setup.sh; ./setup.sh
+wget https://raw.githubusercontent.com/oktaviaps/Autoscript-OS/main/setup.sh; chmod +x setup.sh; ./setup.sh
 ```
 `Jalankan perintah jika disconect di tengah jalan`
  ```
