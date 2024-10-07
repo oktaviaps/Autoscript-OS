@@ -3,7 +3,7 @@
 
 `TAHAP 1`
 ```
-apt update -y; apt upgrade -y; apt install gnupg tmux -y; tmux new -s os
+apt update -y; apt upgrade -y; apt install gnupg tmux python3 -y; tmux new -s os
 ```
 `TAHAP 2`
 ```
