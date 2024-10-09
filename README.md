@@ -15,5 +15,7 @@ tmux attach-session -t os
  ```
 </details>
 
+## `FREE KEY INSTALASI`
+https://t.me/osproject_vpn/15292
 ## `DISKUSI`
 <a href="https://t.me/osproject_tuneling" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
